@@ -1,15 +1,15 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/cyz1101/web/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](https://github.com/cyz1101/web/edit/master/README.md) to maintain and <span class="highlighter highlight-on">preview</span> the <span class="highlighter highlight-on"><span class="highlighter highlight-on">content</span></span> for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you <span class="highlighter highlight-on">commit</span> to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Syntax highlighted <span class="highlighter highlight-on">code</span> block
 
 # Header 1
 ## Header 2
@@ -30,7 +30,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cyz1101/web/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cyz1101/web/settings). The name of this theme is saved in the Jekyll `_config.yml` <span class="highlighter highlight-on">configuration</span> file.
 
 ### Support or Contact
 
